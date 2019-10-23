@@ -98,9 +98,7 @@ The following results can be reproduced with command:
   <td>X-axis: Average number of nodes, Y-aixs: number of subset elements</td>
  </tr>
 </table>
-
-
-
+            
 ## Usage
 ### Prerequisites
 1. Keras
