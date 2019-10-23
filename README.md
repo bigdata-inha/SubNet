@@ -110,10 +110,10 @@ The following results can be reproduced with command:
 ### Arguments
 *Required*:
 * `--dataset`: Choose datset. *Option*: `MNIST` or `FasionMNIST`
-* `--subset`: Elements of subset of total categories. *example*: `--subset 0 1 2`
+* `--subset`:  Subset elements of total categories. *example*: `--subset 0 1 2`
 
 *Optional*: 
-* `--meanNodes`: Whether or not to print the average number of nodes. *Default*: `False`
+* `--meanNodes`: Whether or not to print the average number of nodes. *type*: `bool`, *Default*: `False`
 
 ## Acknowledgements
 This implementation has been tested with Keras 2.2.4 on Windows 10.
