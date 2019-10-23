@@ -15,9 +15,10 @@ The following results can be reproduced with command:
 <table> 
     <thead> 
      <tr> 
-      <th>Layer 1</th> 
-      <th>Layer 2</th> 
-      <th>Layer 3</th> 
+      <th rowspan=2>subset</th>
+      <th>subNetwork</th>
+      <th>OriginalNetwork</th>
+      <th rowspan=2>A/B (%)</th>
      </tr> 
     </thead> 
     <tbody> 
