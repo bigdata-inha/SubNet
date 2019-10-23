@@ -17,7 +17,7 @@ Keras implementation of SubNetwork
 * `--subset`: Elements of subset of total categories. *example*: `--subset 0 1 2`
 
 *Optional*: 
-* `--meanNodes`: Whether mean of number of nodes. *Default*: `False`
+* `--meanNodes`: Whether or not to print the average number of nodes. *Default*: `False`
 
 ## Acknowledgements
 This implementation has been tested with Keras 2.2.4 on Windows 10.
