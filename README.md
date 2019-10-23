@@ -87,6 +87,14 @@ The following results can be reproduced with command:
     python main.py --dataset MNIST --subset 0 1 2 3 4 5 6 7 8 9 --meanNodes True
     python main.py --dataset FashionMNIST --subset 0 1 2 3 4 5 6 7 8 9 --meanNodes True
     
+<table align='center'>
+<tr align='center'>
+<td> Average number of Nodes </td>
+</tr>
+<tr>
+<td><img src = 'images/Average number of nodes.png' height = '150px'>
+</tr>
+</table>
 
 
 
