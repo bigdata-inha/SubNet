@@ -1,7 +1,7 @@
 import argparse
 import utils
-from LoadNet import MNIST_net
-from LoadNet import FashionMNIST_net
+from loadNet import MNIST_net
+from loadNet import FashionMNIST_net
 from extractSubNet import MNIST_SubNet, FashionMNIST_SubNet
 from dataset import MNISTdata, MNISTdata_subset, FashionMNISTdata, FashionMNISTdata_subset
 
@@ -38,7 +38,6 @@ def check_args(args):
 
 
 def main(args):
-    print(args.meanNodes)
     if args.dataset == 'MNIST':
         print("\n'Using MNISTdataset'\n")
         model = MNIST_net()
