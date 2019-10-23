@@ -64,7 +64,7 @@ The following results can be reproduced with command:
       <td colspan=6>Using FashionMNISTdataset Network</td> 
      </tr>
      <tr> 
-      <td>subset of shoes [5, 7, 9]</td>
+      <td>subset for shoes categories [5, 7, 9]</td>
       <td>87,147</td>
       <td>0.963</td>
       <td rowspan=2>330,670</td>
