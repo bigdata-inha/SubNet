@@ -16,26 +16,23 @@ The following results can be reproduced with command:
     <thead> 
      <tr> 
       <th rowspan=2>subset</th>
-      <th>subNetwork</th>
-      <th>OriginalNetwork</th>
+      <th colspan=2>subNetwork</th>
+      <th colspan=2>OriginalNetwork</th>
       <th rowspan=2>A/B (%)</th>
-     </tr> 
+     </tr>
+     <tr> 
+      <th># Params (A)</th>
+      <th>Test - acc</th>
+      <th># Params (B)</th>
+      <th>Test - acc</th>
+     </tr>
     </thead> 
-    <tbody> 
+    <tbody align='center'> 
      <tr> 
-      <td rowspan=4>L1 Name</td> 
-      <td rowspan=2>L2 Name A</td> 
-      <td>L3 Name A</td> 
-     </tr> 
+      <td colspan=6>Using MNISTdataset Network</td> 
+     </tr>
      <tr> 
-      <td>L3 Name B</td> 
-     </tr> 
-     <tr> 
-      <td rowspan=2>L2 Name B</td> 
-      <td>L3 Name C</td> 
-     </tr> 
-     <tr> 
-      <td>L3 Name D</td> 
+      <td colspan=6>Using FashionMNISTdataset Network</td> 
      </tr> 
     </tbody> 
 </table> 
