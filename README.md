@@ -15,6 +15,7 @@ Keras implementation of SubNetwork
 *Required*:
 * `--dataset`: Choose datset. *Option*:`MNIST`or `FasionMNIST`
 * `--subset`: Elements of subset of total categories. *example*: `--subset 0 1 2`
+
 *Optional*: 
 * `--meanNodes`: Whether mean of number of nodes. *Default*: `False`
 
