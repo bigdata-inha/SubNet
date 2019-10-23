@@ -92,7 +92,7 @@ The following results can be reproduced with command:
 <td> Average number of Nodes </td>
 </tr>
 <tr>
-<td><img src = 'images/Average number of nodes.png' height = '400px'></td>
+<td><img src = 'images/Average number of nodes.png' height = '400px'>
 </tr>
 <tr align='center>
 <td>X-axis: Average number of nodes, Y-aixs: number of subset elements</td>
