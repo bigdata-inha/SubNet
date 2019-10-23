@@ -45,11 +45,11 @@ The following results can be reproduced with command:
 2. Python packages: numpy
 ### Command
     python main.py --dataset <choose dataset> --subset <subset of total categories>
-*Example*: python main.py --dataset MNIST --subset 0 1 2 3
+*Example*: `python main.py --dataset MNIST --subset 0 1 2 3`
 
 ### Arguments
 *Required*:
-* `--dataset`: Choose datset. *Option*:`MNIST`or `FasionMNIST`
+* `--dataset`: Choose datset. *Option*: `MNIST` or `FasionMNIST`
 * `--subset`: Elements of subset of total categories. *example*: `--subset 0 1 2`
 
 *Optional*: 
