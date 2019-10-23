@@ -92,7 +92,7 @@ The following results can be reproduced with command:
 <td> Average number of Nodes </td>
 </tr>
 <tr>
-<td><img src = 'images/Average number of nodes.png' height = '150px'>
+<td><img src = 'images/Average number of nodes.png' height = '300px'>
 </tr>
 </table>
 
