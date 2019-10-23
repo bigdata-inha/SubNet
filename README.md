@@ -4,12 +4,12 @@ Keras implementation of SubNetwork
 ## Results
 ### Compare accuracy and number of parameters
 The following results can be reproduced with command:
-'python main.py --dataset MNIST --subset 1 4'
-'python main.py --dataset MNIST --subset 0 2 6'
-'python main.py --dataset MNIST --subset 0 4 6 7'
-'python main.py --dataset MNIST --subset 0 1 2 3 4 5 6 7 8 9'
-'python main.py --dataset FashionMNIST --subset 5 7 9'
-'python main.py --dataset FashionMNIST --subset 0 1 2 3 4 5 6 7 8 9'
+`python main.py --dataset MNIST --subset 1 4`
+`python main.py --dataset MNIST --subset 0 2 6`
+`python main.py --dataset MNIST --subset 0 4 6 7`
+`python main.py --dataset MNIST --subset 0 1 2 3 4 5 6 7 8 9`
+`python main.py --dataset FashionMNIST --subset 5 7 9`
+`python main.py --dataset FashionMNIST --subset 0 1 2 3 4 5 6 7 8 9`
 
 
 
