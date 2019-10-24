@@ -16,7 +16,7 @@ The following results can be reproduced with command:
     <thead> 
      <tr> 
       <th rowspan=2>subset</th>
-      <th colspan=2>subNetwork</th>
+      <th colspan=2>SubNetwork</th>
       <th colspan=2>OriginalNetwork</th>
       <th rowspan=2>A/B (%)</th>
      </tr>
